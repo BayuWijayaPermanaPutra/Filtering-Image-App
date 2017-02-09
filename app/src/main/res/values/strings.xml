@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Ereening</string>
+    <string name="title_toolbar_main_activity">Ereening</string>
+    <string name="title_toolbar_image_processing_activity">Process Image</string>
+    <string name="text_engrave_effect">Engrave</string>
+    <string name="text_emboss_effect">Emboss</string>
+    <string name="text_grausianblur_effect">Gausian Blur</string>
+    <string name="text_highlight_effect">Highlight</string>
+    <string name="text_greyscale_effect">Greyscale</string>
+    <string name="text_invert_effect">Invert</string>
+    <string name="text_reflection_effect">Reflection</string>
+    <string name="text_effect">Effects</string>
+    <string name="text_filter">Filter</string>
+    <string name="text_normal_effect">Normal</string>
+    <string name="text_snow_effect">Snow</string>
+    <string name="main_action_filter">Filter</string>
+    <string name="title_toolbar_image_detail_activity">Image Detail</string>
+    <string name="main_action_delete">Delete</string>
+    <string name="main_action_share">Share</string>
+    <string name="main_action_setpictureas">Set picture as</string>
+    <string name="delete_title">Delete</string>
+    <string name="delete_content">Delete this image?</string>
+    <string name="dialog_action_yes">OK</string>
+    <string name="dialog_action_no">Cancel</string>
+    <string name="set_as">Set as</string>
+    <string name="main_action_edit">Edit</string>
+    <string name="text_sepia_effect">Sepia</string>
+    <string name="text_meanremoval_effect">Mean Removal</string>
+</resources>
